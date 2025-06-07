@@ -43,7 +43,7 @@ A powerful, real-time code review platform with AI-powered suggestions, inline c
 # dashboard
 
 -----------------------------------------------------
-| CodeBuddy              | 🔍 Search Projects       |
+| CodeBuddy              🔍 Search Projects       |
 |---------------------------------------------------|
 | + New Review Room      | 🔔 Notifications 🔽      |
 |---------------------------------------------------|
@@ -60,7 +60,7 @@ A powerful, real-time code review platform with AI-powered suggestions, inline c
 # Code Review Room
 
 -----------------------------------------------------
-| ← Back  | Project: Frontend Refactor             |
+| ← Back   Project: Frontend Refactor             |
 |---------------------------------------------------|
 | Tabs: [Overview] [Code Editor] [Discussion]       |
 |---------------------------------------------------|
@@ -92,7 +92,7 @@ A powerful, real-time code review platform with AI-powered suggestions, inline c
 |  6: }                                             |
 |---------------------------------------------------|
 | Add Comment Box (selected lines) [Post]          |
------------------------------------------------------
+|-----------------------------------------------------|
 | 💬 Comments Thread (Right Sidebar):              |
 | - Bob: Add email format check                    |
 | - You: Working on it now.                        |
@@ -123,7 +123,7 @@ A powerful, real-time code review platform with AI-powered suggestions, inline c
 | Preferences:                                     |
 | - Dark Mode: ☐                                   |
 | - Notification Settings [Edit]                   |
------------------------------------------------------
+|-----------------------------------------------------|
 | 🔧 Project Settings:                             |
 | - Collaborators: Add/remove                      |
 | - Default Branch: main                           |
@@ -141,7 +141,7 @@ A powerful, real-time code review platform with AI-powered suggestions, inline c
 | 🙋 Approvals: Alice (12), Bob (9), You (14)       |
 |---------------------------------------------------|
 | 🔍 Filters: [Last 7 days ⏷] [By Reviewer ⏷]       |
------------------------------------------------------
+|-----------------------------------------------------|
 | 📊 Bar Chart: Comments Per File Over Time        |
 -----------------------------------------------------
 
